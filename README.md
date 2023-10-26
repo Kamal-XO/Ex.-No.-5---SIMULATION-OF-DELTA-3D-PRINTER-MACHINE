@@ -31,8 +31,10 @@
 
 ## Output:
 
-### Name:
-### Register Number:
+![output](https://user-images.githubusercontent.com/119875375/275325778-576943ed-62b9-4d3a-897c-840a4a2d0230.png)
+
+### Name: Kamalesh SV
+### Register Number: 212222240041
 
 ## Result: 
 ### Thus the simulation on construction of delta 3D printer is completed & movement of axis along X, Y, & Z has been studied.
